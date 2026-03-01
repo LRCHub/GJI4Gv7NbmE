@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "base_track": "秒針を噛む",
+  "base_track": "秒針を噛む (Live)",
   "base_artist": "ずっと真夜中でいいのに。",
-  "createdAt": "2025-12-19T01:40:45.904160Z",
+  "createdAt": "2026-03-01T21:30:18.858473Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -55,74 +55,74 @@
     {
       "id": "lrclib_7",
       "source": "lrclib",
-      "title": "秒針を噛む - From THE FIRST TAKE",
+      "title": "秒針を噛む",
       "artist": "ZUTOMAYO",
       "has_synced": true,
-      "path": "select/07_秒針を噛む_-_From_THE_FIRST_TAKE_ZUTOMAYO.lrc"
+      "path": "select/07_秒針を噛む_ZUTOMAYO.lrc"
     },
     {
       "id": "lrclib_8",
       "source": "lrclib",
-      "title": "秒針を噛む - Byoushinwo Kamu",
+      "title": "秒針を噛む",
       "artist": "ZUTOMAYO",
       "has_synced": true,
-      "path": "select/08_秒針を噛む_-_Byoushinwo_Kamu_ZUTOMAYO.lrc"
+      "path": "select/08_秒針を噛む_ZUTOMAYO.lrc"
     },
     {
       "id": "lrclib_9",
       "source": "lrclib",
-      "title": "秒針を噛む",
-      "artist": "ZUTOMAYO",
+      "title": "秒針を噛む (Instrumental)",
+      "artist": "ずっと真夜中でいいのに。",
       "has_synced": true,
-      "path": "select/09_秒針を噛む_ZUTOMAYO.lrc"
+      "path": "select/09_秒針を噛む_(Instrumental)_ずっと真夜中でいいのに。.lrc"
     },
     {
       "id": "lrclib_10",
       "source": "lrclib",
-      "title": "秒針を噛む",
+      "title": "秒針を噛む (From THE FIRST TAKE) - Byoushinwo Kamu (From The First Take)",
       "artist": "ZUTOMAYO",
       "has_synced": true,
-      "path": "select/10_秒針を噛む_ZUTOMAYO.lrc"
+      "path": "select/10_秒針を噛む_(From_THE_FIRST_TAKE)_-_Byoushinwo_Kamu_(From_The_First_Take)_ZUTOMAYO.lrc"
     },
     {
       "id": "lrclib_11",
       "source": "lrclib",
-      "title": "秒針を噛む - Byoushinwo Kamu",
+      "title": "秒針を噛む - From THE FIRST TAKE",
       "artist": "ZUTOMAYO",
       "has_synced": true,
-      "path": "select/11_秒針を噛む_-_Byoushinwo_Kamu_ZUTOMAYO.lrc"
+      "path": "select/11_秒針を噛む_-_From_THE_FIRST_TAKE_ZUTOMAYO.lrc"
     },
     {
       "id": "lrclib_12",
       "source": "lrclib",
-      "title": "秒針を噛む (Instrumental)",
-      "artist": "ずっと真夜中でいいのに。",
+      "title": "秒針を噛む - Byoushinwo Kamu",
+      "artist": "ZUTOMAYO",
       "has_synced": true,
-      "path": "select/12_秒針を噛む_(Instrumental)_ずっと真夜中でいいのに。.lrc"
+      "path": "select/12_秒針を噛む_-_Byoushinwo_Kamu_ZUTOMAYO.lrc"
     },
     {
       "id": "lrclib_13",
       "source": "lrclib",
       "title": "秒針を噛む - Byoushinwo Kamu",
-      "artist": "ずっと真夜中でいいのに。 - ZUTOMAYO",
+      "artist": "ZUTOMAYO",
       "has_synced": true,
-      "path": "select/13_秒針を噛む_-_Byoushinwo_Kamu_ずっと真夜中でいいのに。_-_ZUTOMAYO.lrc"
+      "path": "select/13_秒針を噛む_-_Byoushinwo_Kamu_ZUTOMAYO.lrc"
     },
     {
       "id": "lrclib_14",
       "source": "lrclib",
-      "title": "秒針を噛む - From THE FIRST TAKE",
-      "artist": "ずっと真夜中でいいのに。",
+      "title": "秒針を噛む - Byoushinwo Kamu",
+      "artist": "ずっと真夜中でいいのに。 - ZUTOMAYO",
       "has_synced": true,
-      "path": "select/14_秒針を噛む_-_From_THE_FIRST_TAKE_ずっと真夜中でいいのに。.lrc"
+      "path": "select/14_秒針を噛む_-_Byoushinwo_Kamu_ずっと真夜中でいいのに。_-_ZUTOMAYO.lrc"
     },
     {
       "id": "lrclib_15",
       "source": "lrclib",
-      "title": "秒針を噛む (From THE FIRST TAKE) - Byoushinwo Kamu (From The First Take)",
-      "artist": "ZUTOMAYO",
+      "title": "秒針を噛む - From THE FIRST TAKE",
+      "artist": "ずっと真夜中でいいのに。",
       "has_synced": true,
-      "path": "select/15_秒針を噛む_(From_THE_FIRST_TAKE)_-_Byoushinwo_Kamu_(From_The_First_Take)_ZUTOMAYO.lrc"
+      "path": "select/15_秒針を噛む_-_From_THE_FIRST_TAKE_ずっと真夜中でいいのに。.lrc"
     },
     {
       "id": "petitlyrics_1",
